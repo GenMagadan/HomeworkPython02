@@ -11,4 +11,4 @@ for X in range(1000):
     for Y in range(1000):
         if S == X + Y and P == X * Y:
             print(
-                f'первое число ="{X}", второе число ="{Y}"')
+                f'X ="{X}", Y ="{Y}"')
